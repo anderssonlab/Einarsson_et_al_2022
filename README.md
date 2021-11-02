@@ -1,6 +1,6 @@
 # Einarsson_et_al_2021
-Scripts for analyses performed in Einarsson, et al, 2021, BioRxiv
+Scripts for analyses performed in Einarsson, et al, 2021, BioRxiv <br />
 
-Promoter sequence and architecture determine expression variability and confer robustness to genetic variants
-Hjorleifur Einarsson, Marco Salvatore, Christian Vaagenso, Nicolas Alcaraz, Jette Bornholdt Lange, Sarah Rennie, Robin Andersson
+Promoter sequence and architecture determine expression variability and confer robustness to genetic variants <br />
+Hjorleifur Einarsson, Marco Salvatore, Christian Vaagenso, Nicolas Alcaraz, Jette Bornholdt Lange, Sarah Rennie, Robin Andersson <br />
 bioRxiv 2021.10.29.466407; doi: https://doi.org/10.1101/2021.10.29.466407
