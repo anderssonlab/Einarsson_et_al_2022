@@ -75,7 +75,7 @@ TCs <- subsetBySupport(TCs, inputAssay = "counts", unexpressed = 10, minSamples 
 TCs <- assignGeneID(TCs,geneModels=txdb)
 
 #Decomposing
-decomposed.TCs <- decompose(rowRanges(TCs),supported.CTSSs,fn=local_maxima_decompose,smoothPad=1,fraction=0.1,mergeDist=1,maxGap=10) # lack of merging? Issue with ends trimming?! Very few not the same
+decomposed.TCs <- decompose(rowRanges(TCs),supported.CTSSs,fn=local_maxima_decompose,smoothPad=1,fraction=0.1,mergeDist=1,maxGap=10)
 
 #Save files
 save(TCs, decomposed.TCs, supported.CTSSs,file="../data/Clusters.and.CTSSs.RData")
